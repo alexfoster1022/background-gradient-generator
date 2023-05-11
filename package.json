@@ -1,0 +1,19 @@
+{
+  "name": "background-gradient-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexfoster1022/background-gradient-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexfoster1022/background-gradient-generator/issues"
+  },
+  "homepage": "https://github.com/alexfoster1022/background-gradient-generator#readme"
+}
